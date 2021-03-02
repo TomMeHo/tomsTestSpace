@@ -1,5 +1,5 @@
 [
-  {"date": "T1", "value": 135.98},
-  {"date": "T2", "value": 147.49},
-  {"date": "T3", "value": 146.93}
+  {"date": 1, "value": 135.98},
+  {"date": 2, "value": 147.49},
+  {"date": 3, "value": 146.93}
 ]
